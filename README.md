@@ -12,7 +12,7 @@
 
 ## Project
 - [21.03.04 ~ 진행 중] [Spring/MyBatis 기반 웹 프로젝트](https://github.com/iamleechanmi/SsangYongLivingProject)
-- [21.01.29 ~ 21.03.03] [Servlet/JSP 기반 웹 프로젝트](http://localhost:8090/living/group/notice.action)
+- [21.01.29 ~ 21.03.03] [Servlet/JSP 기반 웹 프로젝트](https://github.com/iamleechanmi/SsangYongBangProject)
 - [20.12.02 ~ 20.12.24] [관계형 데이터베이스 기반 자바 콘솔 프로젝트](https://github.com/iamleechanmi/eduCenterTeamProject)
 - [20.11.04 ~ 20.11.20] [파일 입출력 기반 자바 콘솔 프로젝트](https://github.com/iamleechanmi/usedGardenTeamProject)
 
