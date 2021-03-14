@@ -8,7 +8,7 @@
 - 💻 Taking the Ssangyong Education Center course. **[Java기반 멀티 플랫폼 응용 SW개발자 양성 과정]**
 - 👩‍💻 Desire to be a Back-end developer.
 - 🏊‍♀ Enjoy swimming. 
-    📫  Contact me here **leechanmi@kakao.com**
+- 📫  Contact me here **leechanmi@kakao.com**
 
 ## Project
 - [21.01.29 ~ 21.03.03] [Servlet/JSP 기반 웹 프로젝트](http://localhost:8090/living/group/notice.action)
