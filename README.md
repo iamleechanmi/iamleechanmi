@@ -4,7 +4,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=50&section=header&text=Hi%20there👋%20I'm%20Lee%20Chanmi&fontSize=20)
 ## About
 - 👩‍🎓 I'm a graduate of Soongsil University majoring in mathematics. 
-- *(I dropped out of Dankook University Jukjeon Campus Department of Information and Statistics.)*
+- *(I dropped out of Dankook University Jukjeon Campus Department of Information Statistics.)*
 - 💻 Taking the Ssangyong Education Center course. **[Java기반 멀티 플랫폼 응용 SW개발자 양성 과정]**
 - 👩‍💻 Desire to be a Back-end developer.
 - 🏊‍♀ Enjoy swimming. 
