@@ -16,6 +16,9 @@
 - [20.12.02 ~ 20.12.24] [관계형 데이터베이스 기반 자바 콘솔 프로젝트](https://github.com/iamleechanmi/eduCenterTeamProject)
 - [20.11.04 ~ 20.11.20] [파일 입출력 기반 자바 콘솔 프로젝트](https://github.com/iamleechanmi/usedGardenTeamProject)
 
+## ErrorNote
+[ErrorNote](https://github.com/iamleechanmi/errorNote) - **프로젝트나 수업 진행 중 생긴 에러와 해결 방법 정리** <br><br>
+
 ![LeeChanmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamleechanmi&theme=graywhite&show_icons=true)
 
 <!--
